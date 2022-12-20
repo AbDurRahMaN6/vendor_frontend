@@ -1,0 +1,11 @@
+.favourite{
+    width: 100%;
+    padding-left: 50px;
+    background-color: #fff;
+}
+
+.favouriteHeader{
+    text-transform: uppercase;
+    color: #162427;
+    font-weight: 800;
+}
